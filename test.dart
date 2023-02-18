@@ -10,7 +10,7 @@ void main(List<String> args) {
   }
   Map NoRumah = {'01': 'Tono', '02': 'Budi', '03': 'mamat'};
   print('\n$NoRumah');
-  if (IPK >= 3.5) {
+  if (IPK >= 3.4) {
     if (mengulang == false) {
       print("cumlaude");
     } else
