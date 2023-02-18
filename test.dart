@@ -8,10 +8,8 @@ void main(List<String> args) {
   for (var i = 0; i <= 10; i++) {
     print("*" * i);
   }
-<<<<<<< HEAD
   Map NoRumah = {'01': 'Tono', '02': 'Budi', '03': 'mamat'};
   print('\n$NoRumah');
-=======
   if (IPK >= 3.5) {
     if (mengulang == false) {
       print("cumlaude");
@@ -19,5 +17,4 @@ void main(List<String> args) {
       print("tidak cumlaude");
   } else
     print("tidak cumlaude");
->>>>>>> featureA
 }
