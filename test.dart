@@ -15,4 +15,8 @@ void main(List<String> args) {
       print("tidak cumlaude");
   } else
     print("tidak cumlaude");
+  List tb = [170, 165, 140, 166];
+  print('\n$tb');
+  Set Judul = {'MTK', 'IPA', 'PKN', 'MTK', 'PJOK'};
+  print('\n$Judul\n');
 }
